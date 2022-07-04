@@ -1,0 +1,13 @@
+package com.springProject.MovieRating;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MovieRatingSystemApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
